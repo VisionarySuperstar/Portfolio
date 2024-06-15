@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-    ![image](https://github.com/Superstar-Lucas/Portfolio/assets/9166113/336c7f51-172d-45f6-ab18-7edc39417581)
+    <img src="https://github.com/Superstar-Lucas/Portfolio/assets/9166113/336c7f51-172d-45f6-ab18-7edc39417581"><img/>
   </kbd>
 <kbd>
     <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
