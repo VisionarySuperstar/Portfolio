@@ -101,12 +101,3 @@ Iconify Icons are used in the skill section. You can find all the icons here: [I
 - Enable Dark Mode
 
 - Add More Sections
-
-
-## Author
-
-👤 **Hanzla Tauqeer**
-
-- Website: https://hanzla.netlify.app
-- Github: [@1hanzla100](https://github.com/1hanzla100)
-- LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
