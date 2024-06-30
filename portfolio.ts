@@ -204,7 +204,7 @@ export const projects: ProjectType[] = [
     name: "developer-portfolio",
     desc: "Fullstack Blockchain Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a fullstack developer.",
     github: "https://github.com/Superstar-Lucas",
-    link: "https://developer-portfolio-superstar-lucas.vercel.app/",
+    link: "https://superstar-lucas-portfolio.vercel.app/",
   },
   // {
   //   name: "Giebo",
