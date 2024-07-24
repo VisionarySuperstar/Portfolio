@@ -27,7 +27,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "lucaslee971127@gmail.com",
-  linkedin: "https://www.linkedin.com/in/lucas-lee971127/",
+  linkedin: "https://linkedin.com/in/lucas-lee-69137b31b",
   github: "https://github.com/Superstar-Lucas",
   // instagram: "https://www.instagram.com/__hanzla100",
   // facebook: 'https://www.facebook.com/1hanzla100',
