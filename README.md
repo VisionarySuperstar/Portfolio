@@ -101,4 +101,3 @@ Iconify Icons are used in the skill section. You can find all the icons here: [I
 - Enable Dark Mode
 
 - Add More Sections
-
